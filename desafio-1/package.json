@@ -1,0 +1,14 @@
+{
+  "name": "desafio-1",
+  "version": "1.0.0",
+  "description": "Nesse desafio, você terá de criar uma imagem docker que quando executada deverá expor a porta 8080 exibindo a mensagem: Eu sou Full Cycle. Fique na liberdade para utilizar a tecnologia/linguagem de programação de sua escolha. Exemplo: você poderá criar uma simples aplicação usando Node.js com Express para exibir essa mensagem. Gere o build da sua imagem, faça o push para o DockerHub e a informe no formulário abaixo.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "studiojms",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
